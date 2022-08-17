@@ -1,0 +1,24 @@
+{
+  "name": "testes-de-aplica-es-modernas-com-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoBoscoGit/Testes-de-aplica-es-modernas-com-Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoBoscoGit/Testes-de-aplica-es-modernas-com-Cypress/issues"
+  },
+  "homepage": "https://github.com/GustavoBoscoGit/Testes-de-aplica-es-modernas-com-Cypress#readme",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
+}
